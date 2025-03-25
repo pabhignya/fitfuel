@@ -1,0 +1,17 @@
+# Node modules
+/node_modules/
+
+# Python virtual environments
+/venv/
+/.env/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build and dist folders
+/dist/
+/build/
